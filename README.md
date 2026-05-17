@@ -35,6 +35,7 @@ Provide a detailed overview of the project:
 | IDE / Editor    | VS Code                    |
 | UI Framework    | Unity UI (UGUI)            |
 | Version Control | Git                        |
+| AI              | Copilot                    | 
 
 ---
 
